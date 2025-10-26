@@ -11,10 +11,10 @@ Bu proje, Trendyol ve Hepsiburada gibi büyük e-ticaret platformlarından ürü
 *   **Otomatik Yorum Toplama:** Belirtilen ürünler için Trendyol ve Hepsiburada'dan otomatik olarak yorumları çeker.
 *   **Yapay Zeka Destekli Ürün Seçimi:** Kullanıcı sorgularına göre analiz için en uygun ürünleri önermek üzere Gemini yapay zekasını kullanır.
 *   **Adım Adım Analiz Süreci:**
-    .  **Veri Toplama:** Belirtilen ürünler için yorumları toplar.
-    .  **Duygu Analizi:** Toplanan yorumlar üzerinde duygu analizi gerçekleştirir.
-    .  **Akıllı Sınıflandırma:** Yorumları kullanıcı tanımlı veya varsayılan kategorilere (örneğin Fiyat, Kalite, Kargo) ayırır.
-    .  **Rapor Oluşturma:** Analiz sonuçlarını içeren, grafiklerle zenginleştirilmiş detaylı Word (.docx) raporları hazırlar.
+    1.**Veri Toplama:** Belirtilen ürünler için yorumları toplar.
+    2.**Duygu Analizi:** Toplanan yorumlar üzerinde duygu analizi gerçekleştirir.
+    3.**Akıllı Sınıflandırma:** Yorumları kullanıcı tanımlı veya varsayılan kategorilere (örneğin Fiyat, Kalite, Kargo) ayırır.
+    4.**Rapor Oluşturma:** Analiz sonuçlarını içeren, grafiklerle zenginleştirilmiş detaylı Word (.docx) raporları hazırlar.
 *   **Etkileşimli Arayüz:** Kullanıcıyı analiz adımları boyunca yönlendiren, PyQt6 ile oluşturulmuş kullanıcı dostu bir arayüze sahiptir.
 *   **Veri Görselleştirme:** Analiz sonuçlarını görselleştirmek için pasta grafikleri ve zaman serisi analizleri gibi çeşitli grafikler oluşturur.
 *   **Özelleştirilebilir Kategoriler:** Kullanıcıların daha hedefe yönelik bir analiz için kendi kategorilerini tanımlamasına olanak tanır.
