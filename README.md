@@ -1,6 +1,6 @@
 # ReviewInsight: E-Ticaret Yorum Analiz Aracı
 
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/800x450.png?text=Uygulama+Ekran+Görüntüsü)
+<img width="945" height="626" alt="image" src="https://github.com/user-attachments/assets/bad1ada4-8ffe-46c1-a352-0f84c93c7b6b" />
 
 *<p align="center">ReviewInsight, e-ticaret sitelerindeki ürün yorumlarını analiz ederek pazar araştırması ve rakip analizi için derinlemesine içgörüler sunan bir masaüstü uygulamasıdır.</p>*
 
@@ -19,6 +19,9 @@ Bu proje, Trendyol ve Hepsiburada gibi büyük e-ticaret platformlarından ürü
 *   **Veri Görselleştirme:** Analiz sonuçlarını görselleştirmek için pasta grafikleri ve zaman serisi analizleri gibi çeşitli grafikler oluşturur.
 *   **Özelleştirilebilir Kategoriler:** Kullanıcıların daha hedefe yönelik bir analiz için kendi kategorilerini tanımlamasına olanak tanır.
 
+<img width="945" height="620" alt="image" src="https://github.com/user-attachments/assets/cc65e6fc-5de9-4908-9f0d-cc3bcad942ae" />
+
+
 ## Kullanılan Teknolojiler
 
 *   **Backend/Çekirdek Mantık:** Python
@@ -28,6 +31,9 @@ Bu proje, Trendyol ve Hepsiburada gibi büyük e-ticaret platformlarından ürü
 *   **Yapay Zeka:** Google Gemini (Ürün seçimi için)
 *   **Veri Görselleştirme:** Matplotlib
 *   **Raporlama:** python-docx
+
+  <img width="945" height="508" alt="image" src="https://github.com/user-attachments/assets/414530db-d24b-4d6b-a4d4-7d83b930f8f9" />
+
 
 ## Proje Yapısı
 
